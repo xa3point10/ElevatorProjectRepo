@@ -3,3 +3,17 @@ CIS_260_Elevator_Project
 
 ......Enter here the description of the project
  (TO DO)
+ 
+ 
+ 
+To embed diagrams in this Wiki, clone the wiki (https://github.com/jgraph/draw.io.wiki.git), store the diagram as a PNG+XML file in the images folder, and reference it using `![Alt](images/someimage.png)`.
+
+Here is an example:
+
+![Elevator_UML_Diagram](images/Elevator_UML_Diagram.png)
+
+[Lightbox](https://www.draw.io/?chrome=0&lightbox=1&highlight=0000ff&edit=_blank&layers=1&title=Elevator_UML_Diagram.xml#R7Zxbc9o4FMc%2FDY%2FJYAlzeSQE2s40k0zZnXafdoQtjBrZYmVBoJ9%2BJVu%2ByqTsknhKrTxkrGNZt99f9tGRTQ%2FOwsMHjrabB%2BZj2gN9%2F9CD9z0AoDuW%2F5XhmBqcPoCpJeDE17bCsCQ%2FcJZRW3fEx3Elo2CMCrKtGj0WRdgTFRvinL1Us60Zrda6RYGusV8Ylh6iWTtu3cL%2Blfhik9rHYFjYP2ISbLK6neEkPbNC3nPA2S7SNfYAXCd%2F6ekQZWXpmuMN8tlLyQTnPTjjjIn0KDzMMFWjmw1cdp04Zq3twbuNCKlMOPIwOb04cbFzzsWydxxHolzdqfImujV7RHe6wCfMYxYZ9ch%2BbtXhLqRTTzAuK9tjLogc9M9ohekTi4kg8kJ4v2JCsLCUYUpJoE4ItpXWNaF0xqgqQhYMwWgwd6C0x4KzZ9x0Zs0isdRNydOp6JyxTi9QSKjS60dM91hVmxeZCeCnY6VHVzUbH0omPXYfMAux4EeZJTs70OOXTZShTr8UmsuybEpyG2sb0joP8pILVvJA4zqBzrHo3hDdALaIDhjoHhCJBI5Q5GHL7yx%2BdYDAGWV3%2FTYQQgPh43pNFD1ZunzKQPkshHdMPjb6S%2Flcii3V%2F0UVTtqblo4zMaD%2BufWRUFCXEpHyOkD%2FM4nFSZrhIVAu1e2ashdvg7i4ZdGN8jb%2B5niN5chIhRjEFou5O5kYxFZU%2BiKNg547HWrYZYU%2BkUNeLtCZSdpvTieHoeG45nxzxg1wRu4bwAHm827qf98pFgqOHCmLpuSJDEDD3fAd6ZiPtAVJsuQTx2IBxb2rHSjmQ2rBeCgtX%2FA%2FO5xMnRknAnOCLJ8kDVqeNgOD0FfGn9eM1z2JB8SfsUjQxRhxb2OBJb6A0%2BqEcg1c83BL2RErWtMI0WNMTrt6nSLj9lslMzztHcwRj0gUWC4plwaP%2Bh25jAwuX7DHd0RUb2%2Blu56FBMBw3CqksQFpOZveT7vJYlR%2FxDTFFd4RhrkI%2FRRJF20ve0Reie51iokD20SShQZNP%2FqR%2B5h3euFZJwOcVsk0RVKto9zABU7avY1Bc%2B2ZO2RPnHivREQ7xWUwaXfFCc0V54KofQeCaDJptozbW1nqKY9bRmOuLj9FexyLUPXJIpFHw1HLSExnzACB%2FQBnmykRi9Royw7z4zeZ7meJv1RCNl0nnzAnsjWY6zzmgOPIn6o3IRIqLKEiTUlMNR1dY3dnMunLvzMRxGynFluJKRtjgXiA8xcidM9V714lVebQb%2BCQG5tA6OKeGFEKz727%2BiVpa3WuAl9x4eHEhWmXjAsT7nkfzpPCwHQCOyKFLKOVQiYFcyuqK1IAVgpVKZgLkN9QCk6TFKCVQlUK5oqnK1IYWClUpWAusroiBddKoSoFc1HXFSkMrRSqUjD3KLsihZGVQlUK5rbof5KCcxVSAE1SGFspVKVgbr52RQo2xFSTwoXRxuuVQrbDaqWgi3YvjSvcjl23KoeS4dcSBLSCOEMQF0YXruPe0CgFYKVQlcKF0YUrloKNOdakcGF04YqlYGOONSlcGF24YinYmGNNChdGF64j0NS0P2ndxroUuhtdsL5CTQpmdGFO8R6pb89B%2F3H1Xf0SS10bAh9ElQjHMfmBVkkGBWur2pa01r3ruffSgnaCxfprcpXUH6tTvFZFNX%2FDHm%2BRR6LgD5W4vxn0Kt%2BkA6dX%2FWY9S5fEo6SzWLymmPPfOnNrb53dONrZ%2BJlUwCtKOfHOmUwWPxaTYi1%2BkwfO%2FwU%3D)
+
+The absolute URL of this image is https://raw.githubusercontent.com/wiki/jgraph/draw.io/images/schema.png.
+
+[Click here](https://www.draw.io/?title=schema.png&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwiki%2Fjgraph%2Fdraw.io%2Fimages%2Fschema.png%3Ft%3D0) to edit this image in a browser (?t=0 to bypass caches). Use the [Chrome App](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla) for native PNG+XML support.
